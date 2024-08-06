@@ -2,6 +2,7 @@
 <h1 align="center"><b>Hi , I'm Hirayan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
+
 ## About Me
 
 ### Personal Information
@@ -27,7 +28,8 @@
 
 ### Hobbies and Interests
 - Sleeping
-- Playing TFT ![TFT Pengu](https://media.tenor.com/wHHP6rH70dwAAAAi/amazed-pengu.gif)
+- Playing TFT 
+<img src="https://media.tenor.com/wHHP6rH70dwAAAAi/amazed-pengu.gif" alt="TFT Pengu" width="100" />
 
 ### Motto
 > ""To regret the past, to hope in the future, and never to be satisfied with the present""
